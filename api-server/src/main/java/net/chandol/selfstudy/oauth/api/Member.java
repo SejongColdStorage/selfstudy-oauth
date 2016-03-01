@@ -1,4 +1,4 @@
-package net.chandol.selfstudy.oauth.member;
+package net.chandol.selfstudy.oauth.api;
 
 import lombok.Data;
 

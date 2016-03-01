@@ -1,4 +1,4 @@
-package net.chandol.selfstudy.oauth.member;
+package net.chandol.selfstudy.oauth.api;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
